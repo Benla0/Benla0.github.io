@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#170c26"/><stop offset="1" stop-color="#362052"/></linearGradient><radialGradient id="light"><stop stop-color="#8d47dc" stop-opacity=".5"/><stop offset="1" stop-color="#8d47dc" stop-opacity="0"/></radialGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b17be6" stroke-opacity=".12"/></pattern></defs>
+<path fill="url(#sky)" d="M0 0h720v450H0z"/><path fill="url(#grid)" d="M0 0h720v450H0z"/><ellipse cx="367" cy="256" rx="340" ry="270" fill="url(#light)"/>
+<path fill="#241634" d="M0 330h74v-50h27v-52h50v-40h30v40h45v110h76v-75h23v-63h38v-42h31v-35h23v35h31v42h40v63h24v65h59v-128h27v-45h30v45h28v69h56v21h13v140H0z"/>
+<path fill="#100b1a" stroke="#7c49a4" stroke-width="2" d="M100 380V252h26v-33h29v33h28v128m97 0V236h24v-62h29v-41h24v-46h18v46h24v41h30v62h25v144m88 0V280h27v-51h34v51h27v100"/>
+<path fill="#b988ef" d="M323 219h9v20h-9zm44-46h10v19h-10zm40 67h9v22h-9zm-40 27h10v22h-10zm-44 28h9v23h-9zm44 51h10v34h-10zm156-46h9v17h-9zM135 292h9v17h-9z"/>
+<path d="M0 380h720M360 380l-45 70M360 380l45 70M60 380l-120 70m660-70 120 70M0 410h720M0 439h720" stroke="#8350b5" stroke-opacity=".45"/>
+<path fill="#a978df" d="M70 87h4v4h-4zm95 37h5v5h-5zm394-49h6v6h-6zm-55 64h4v4h-4zm117 25h5v5h-5zm-391-96h3v3h-3z"/>
+<text x="37" y="40" fill="#c9ade7" font-family="monospace" font-size="11" letter-spacing="3">PROJECT / EPOCH</text><text x="680" y="414" text-anchor="end" fill="#cdb0e9" font-family="monospace" font-size="10" letter-spacing="2">A WORLD OF BLOCKS</text>
+</svg>
