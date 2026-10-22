@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" shape-rendering="crispEdges">
+  <defs><filter id="coins" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path fill="#100b1c" d="M0 0h720v900H0z"/>
+  <path fill="#25182e" d="M90 100h540v678H90z"/>
+  <path fill="#a17b98" d="M110 112h500v650H110z"/>
+  <path fill="#2c2033" d="M124 126h472v622H124z"/>
+  <path fill="#d8b7ce" d="M124 126h472v8H124zM124 134h8v614h-8z"/>
+  <g fill="#df9bea" font-family="Courier New,monospace" text-anchor="middle"><text x="360" y="191" font-size="24" letter-spacing="4">BASEMENT / 03</text><text x="360" y="219" font-size="12" letter-spacing="2">A FRIEND'S PRIVATE LINE</text></g>
+  <path fill="#07080c" d="M312 418h96v12h24v22h24v82H264v-82h24v-22h24z"/>
+  <path fill="#39353d" d="M312 430h12v76h-12zm84 0h12v76h-12zm-60 34h8v70h-8zm42 0h8v70h-8z"/>
+  <path fill="#242420" d="M312 287h96v12h24v24h12v80h-12v24h-24v12h-96v-12h-24v-24h-12v-80h12v-24h24z"/>
+  <path fill="#8d9081" d="M312 299h96v12h24v24h12v56h-12v24h-24v12h-96v-12h-24v-24h-12v-56h12v-24h24z"/>
+  <path fill="#b3b29f" d="M312 303h84v8h-84zm-16 16h12v24h-12zm-12 28h8v30h-8z"/>
+  <path fill="#3a3d34" d="m302 382 30 17 66-15 24-16-12 30-64 20-30-12Z"/>
+  <path d="m314 393 26 13 59-16m-68 9v9m15-10v10m15-14v10m16-14v10m14-15v9" fill="none" stroke="#c3bca1" stroke-width="5"/>
+  <g fill="#f7ce64" filter="url(#coins)"><path d="M314 342h20v6h6v26h-6v6h-20v-6h-6v-26h6zm72 0h20v6h6v26h-6v6h-20v-6h-6v-26h6z"/></g>
+  <path fill="#fff1b1" d="M316 348h6v26h-6zm72 0h6v26h-6z"/>
+  <path fill="#b97f29" d="M328 352h5v17h-5zm72 0h5v17h-5z"/>
+  <path fill="#b3a093" d="M220 514h60v20h-60zm220 0h60v20h-60z"/>
+  <path fill="#916c58" d="M174 534h372v24H174zM190 558h340v70H190zM206 628h24v34h-24zm284 0h24v34h-24z"/>
+  <path fill="#c89f72" d="M174 534h372v8H174z"/>
+  <path fill="#382836" d="M220 578h64v10h-64zm108 0h64v10h-64zm108 0h64v10h-64z"/>
+  <path fill="#c2a2bc" d="M182 685h356v2H182z"/>
+  <text x="360" y="718" fill="#cfabc9" font-size="15" letter-spacing="2" font-family="Courier New,monospace" text-anchor="middle">THREE PLATES / MIDNIGHT</text>
+  <path d="M32 82V32h50m556 0h50v50M32 818v50h50m556 0h50v-50" fill="none" stroke="#df9bea" stroke-width="4" opacity=".7"/>
+  <g fill="#df9bea" opacity=".4"><path d="M57 216h4v4h-4zm602 134h4v4h-4zM55 665h5v5h-5zm605 109h4v4h-4zM340 65h4v4h-4z"/></g>
+</svg>
